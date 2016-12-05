@@ -1,6 +1,8 @@
 {
     "require": {
-        "phpspec/phpspec": "^3.2"
+        "php": "^7.0",
+        "phpspec/phpspec": "3.2.2",
+        "phpspec/prophecy": "1.6.2"
     },
 
     "autoload": {
