@@ -1,0 +1,1 @@
+Demonstrates possible bug in Prophecy.  Clone repo, run composer, run phpspec in PHP 7.0+.
